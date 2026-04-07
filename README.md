@@ -40,7 +40,7 @@ Significant year-over-year growth in sales volume and target achievement.
 ![2025 Product Analysis](2025_Product.png)
 
 ![Party-wise Comparison](Party-24vs25.png)
-![Warehouse Analysis](WAREHOUSE WISE.png)
+![Warehouse Analysis](warehouse_wise.png)
 ![Thank You](ZThankyou.png)
 
 ## 📄 Full Report
