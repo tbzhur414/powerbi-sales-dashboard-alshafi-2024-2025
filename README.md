@@ -6,7 +6,7 @@ Professional interactive Power BI dashboard showcasing comprehensive sales perfo
 
 ![Cover](01_cover.png)
 
-## 📊 Key Performance Highlights
+## Key Performance Highlights
 
 **2024 Performance**
 - Total Sales: **216,531 tons**
@@ -20,7 +20,7 @@ Professional interactive Power BI dashboard showcasing comprehensive sales perfo
 
 Significant year-over-year growth in sales volume and target achievement.
 
-## 🛠 Dashboard Features
+## Dashboard Features
 - Monthly sales trends with area charts
 - Product-wise performance and contribution
 - Sales Person analysis
@@ -28,7 +28,7 @@ Significant year-over-year growth in sales volume and target achievement.
 - Clear 2024 vs 2025 comparison
 - Interactive slicers and filters
 
-## 📸 Dashboard Screenshots
+## Dashboard Screenshots
 
 ![2024 Monthly View](02_2024_month.png)
 ![2024 Sales Person](03_2024_person.png)
@@ -43,7 +43,7 @@ Significant year-over-year growth in sales volume and target achievement.
 ![Warehouse Analysis](warehouse_wise.png)
 ![Thank You](ZThankyou.png)
 
-## 📄 Full Report
+## Full Report
 [Download Complete PDF Report](AlShafi_Sales_Analysis_2024_2025.pdf)
 
 ---
